@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+input/
+input_data/
+output/
+train_data/
+valid_data/
+lmdb_dataset/
+*.tmp
